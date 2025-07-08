@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😎 About Me:
 <br>- 🖥️ I am working on personal coding projects either in HTML5, CSS3, JavaScript, PHP.<br>- 💡 I specialize in debugging code for daily learning.!<br>- 🤝🏻 My background is specialized in collaborating or innovating web development specialized in Front-End or Back-End to form a team to create structured or scalable code.<br>- 🤖 I look for daily improvements in the code to expand my skills in Front-End and Back-End development.!<br>- 💬 You can consult me about web programming or systems knowledge which I can provide you with different skills and experiences already lived. <br>- 📫LinkedIn: https://www.linkedin.com/in/camilo-andres-rojo-londono/<br>- 😄 Pronouns: He / Him<br><br>😎Welcome! 😎
 
 
